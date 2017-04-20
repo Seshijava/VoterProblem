@@ -1,0 +1,13 @@
+R1/A B C D
+R2/G A D B
+R1
+1 A C D
+2 C A
+3 A C Z
+4 A D H
+5 A D D
+R2
+4 A G D F
+5 D B A
+1 D B A D
+&&
